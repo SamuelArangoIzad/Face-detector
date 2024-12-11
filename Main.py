@@ -1,7 +1,9 @@
 import cv2
 import tkinter as tk
 from PIL import Image, ImageTk
-import numpy as np
+import numpy as np 
+
+#REMEMBER DOWLOAD pip insall numpy, pip install opencv-python opencv-contrib-python, pip install pillow
 
 
 def main():
